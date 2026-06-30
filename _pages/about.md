@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 <style>
-body {
-    font-family: "Times New Roman", Times, serif;
-}
-
 .contribution {
     margin-top: 10px;
     background-color: #f5f5f5;
@@ -103,10 +99,7 @@ html[data-theme="dark"] .contribution {
     margin-left: -.5em;
     background-color: #00369f;
     color: #ffffff;
-    font-family: "Trebuchet MS", Helvetica, sans-serif !important;
-    font-size: 1.2em;
-    font-weight: 700;
-    line-height: 1.35;
+    font-size: .8em;
 }
 
 .publication-image {
@@ -172,13 +165,13 @@ html[data-theme="dark"] .contribution {
     background-color: #2f3337;
     color: #ffffff;
     font-weight: bold;
-    font-size: 0.88em;
+    font-size: 1em;
     letter-spacing: 0;
 }
 
 .award-title {
     color: #2f3337;
-    font-size: 0.96em;
+    font-size: 1em;
     line-height: 1.25;
     font-weight: bold;
 }
@@ -231,7 +224,7 @@ html[data-theme="dark"] .award-title {
     }
 
     .venue-badge {
-        font-size: 1.05em;
+        font-size: .8em;
     }
 
     .publication-actions {
@@ -270,11 +263,11 @@ html[data-theme="dark"] .award-title {
   text-overflow: ellipsis;
   color: #0b5f86;
   font-weight: 600;
-  font-size: 1.02em;
+  font-size: 1em;
 }
 .edu-year {
   color: #0b67a0;
-  font-size: 0.95em;
+  font-size: 1em;
   white-space: nowrap;
   margin-left: 12px;
 }
