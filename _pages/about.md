@@ -357,8 +357,8 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     Douyin: FranklinHLF
   </a>
   <a class="social-link" href="https://www.xiaohongshu.com/user/profile/636f0b77000000001f01b4ff?xsec_token=AB7GfuaUGnDy0VeSr8Hp8LCuvo1UU4ZH-sl_GmedqFbXk%3D&xsec_source=pc_search" target="_blank" rel="noopener">
-    <span class="social-icon rednote-icon" aria-hidden="true">Rednote</span>
-    FranklinHLF
+    <span class="social-icon rednote-icon" aria-hidden="true">小红书</span>
+    Rednote: FranklinHLF
   </a>
 </span>
 </p>
