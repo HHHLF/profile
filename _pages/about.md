@@ -85,6 +85,32 @@ html[data-theme="dark"] .contribution {
     overflow-anchor: none;
 }
 
+.publication-visual {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    min-height: 185px;
+}
+
+.venue-badge {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: 1;
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+    padding: 4px 16px;
+    background: #003fa3;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16);
+}
+
 .publication-image {
     width: 100%;
     height: 100%;
@@ -198,6 +224,19 @@ html[data-theme="dark"] .award-title {
         min-height: 0;
         max-width: 520px;
         margin: 0 0 12px 0;
+    }
+
+    .publication-visual {
+        min-height: 0;
+        max-width: 520px;
+        margin-bottom: 12px;
+    }
+
+    .venue-badge {
+        top: 8px;
+        font-size: 16px;
+        min-height: 28px;
+        padding: 4px 12px;
     }
 
     .publication-actions {
@@ -326,12 +365,14 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 ---
 
 <div class="publication-item">
-  <img class="publication-image" src="images/loda.png" alt="Overall Framework">
+  <div class="publication-visual">
+    <span class="venue-badge">ICML 2026</span>
+    <img class="publication-image" src="images/loda.png" alt="Overall Framework">
+  </div>
   
   <div class="publication-info">
     <strong>Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning</strong><br>
-    <strong>Lingfeng He</strong>, De Cheng, Huaijie Wang, Xi Yang, Nannan Wang, Xinbo Gao<br>
-    <em>Forty-Third International Conference on Machine Learning (ICML), 2026</em><br><br>
+    <strong>Lingfeng He</strong>, De Cheng, Huaijie Wang, Xi Yang, Nannan Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
       <a href="https://arxiv.org/abs/2603.00191">[Arxiv]</a> 
@@ -350,12 +391,14 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 </div>
 
 <div class="publication-item">
-  <img class="publication-image" src="images/seca1.png" alt="Overall Framework">
+  <div class="publication-visual">
+    <span class="venue-badge">AAAI 2026</span>
+    <img class="publication-image" src="images/seca1.png" alt="Overall Framework">
+  </div>
   
   <div class="publication-info">
     <strong>Harnessing Textual Semantic Priors for Knowledge Transfer and Refinement in CLIP-Driven Continual Learning</strong><br>
-    <strong>Lingfeng He</strong>, De Cheng, Di Xu, Huaijie Wang, Nannan Wang<br>
-    <em>Association for the Advancement of Artificial Intelligence (AAAI) 2026</em><br><br>
+    <strong>Lingfeng He</strong>, De Cheng, Di Xu, Huaijie Wang, Nannan Wang<br><br>
 
     <div class="publication-actions">
       <a href="https://www.arxiv.org/abs/2508.01579">[Arxiv]</a> 
@@ -375,12 +418,14 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 
 <div class="publication-item">
-  <img class="publication-image" src="images/mult.png" alt="MULT Framework">
+  <div class="publication-visual">
+    <span class="venue-badge">IJCV 2024</span>
+    <img class="publication-image" src="images/mult.png" alt="MULT Framework">
+  </div>
   
   <div class="publication-info">
     <strong>Exploring Homogeneous and Heterogeneous Consistent Label Associations for Unsupervised Visible-Infrared Person ReID</strong><br>
-    <strong>Lingfeng He</strong>, De Cheng, Nannan Wang, Xinbo Gao<br>
-    <em>International Journal of Computer Vision (IJCV), 2024</em><br><br>
+    <strong>Lingfeng He</strong>, De Cheng, Nannan Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
       <a href="https://arxiv.org/pdf/2402.00672">[Arxiv]</a> 
@@ -400,12 +445,14 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 
 <div class="publication-item">
-  <img class="publication-image" src="images/saclr.png" alt="SACLR Framework">
+  <div class="publication-visual">
+    <span class="venue-badge">IJCV 2025</span>
+    <img class="publication-image" src="images/saclr.png" alt="SACLR Framework">
+  </div>
   
   <div class="publication-info">
     <strong>Semantic-Aligned Learning with Collaborative Refinement for Unsupervised VI-ReID</strong><br>
-    De Cheng*, <strong>Lingfeng He*</strong>, Nannan Wang, Dingwen Zhang, Xinbo Gao<br>
-    <em>International Journal of Computer Vision (IJCV), 2025</em><br><br>
+    De Cheng*, <strong>Lingfeng He*</strong>, Nannan Wang, Dingwen Zhang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
       <a href="https://arxiv.org/pdf/2504.19244">[Arxiv]</a> 
@@ -425,12 +472,14 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 
 <div class="publication-item">
-  <img class="publication-image" src="images/MBCCM.png" alt="MBCCM Framework">
+  <div class="publication-visual">
+    <span class="venue-badge">ACM MM 2023</span>
+    <img class="publication-image" src="images/MBCCM.png" alt="MBCCM Framework">
+  </div>
   
   <div class="publication-info">
     <strong>Efficient Bilateral Cross-Modality Cluster Matching for Unsupervised Visible-Infrared Person Re-ID</strong><br>
-    De Cheng*, <strong>Lingfeng He*</strong>, Nannan Wang, Shizhou Zhang, Zhen Wang, Xinbo Gao<br>
-    <em>Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023 (<strong>🏆 Oral paper</strong>)</em><br><br>
+    De Cheng*, <strong>Lingfeng He*</strong>, Nannan Wang, Shizhou Zhang, Zhen Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
       <a href="https://arxiv.org/pdf/2305.12673">[Arxiv]</a>
@@ -454,12 +503,14 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 ## 📌 Preprints (First author/Student first author)
 
 <div class="publication-item">
-  <img class="publication-image" src="images/ckaa.png" alt="CKAA Framework">
+  <div class="publication-visual">
+    <span class="venue-badge">TIP Review</span>
+    <img class="publication-image" src="images/ckaa.png" alt="CKAA Framework">
+  </div>
   
   <div class="publication-info">
     <strong>CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning</strong><br>
-    <strong>Lingfeng He</strong>, De Cheng, Zhiheng Ma, Huaijie Wang, Dingwen Zhang, Nannan Wang, Xinbo Gao<br>
-    <em>Under IEEE Transactions on Image Processing (TIP) peer review</em><br><br>
+    <strong>Lingfeng He</strong>, De Cheng, Zhiheng Ma, Huaijie Wang, Dingwen Zhang, Nannan Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
       <a href="https://www.arxiv.org/pdf/2507.09471">[Arxiv]</a>
