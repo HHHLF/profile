@@ -72,6 +72,48 @@ html[data-theme="dark"] .contribution {
     margin-right: 6px;
 }
 
+.social-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px 16px;
+    margin: -0.2em 0 1em;
+}
+
+.social-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: #224b8d;
+    text-decoration: underline;
+}
+
+.social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.35em;
+    height: 1.35em;
+    flex: 0 0 auto;
+}
+
+.douyin-icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.rednote-icon {
+    width: auto;
+    min-width: 1.35em;
+    padding: 0 0.25em;
+    border-radius: 0.35em;
+    background: #ff2442;
+    color: #ffffff;
+    font-size: 0.8em;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
 .publication-item {
     display: grid;
     grid-template-columns: minmax(340px, 38%) minmax(0, 1fr);
@@ -302,6 +344,23 @@ document.addEventListener("click", function(event) {
 I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUST), starting in Fall 2026, supervised by Prof. [Xiaomeng Li](https://scholar.google.com/citations?user=uVTzPpoAAAAJ&hl=en). Prior to this, I received my master's degree from Xidian University, the State Key Laboratory of Integrated Services Networks (ISN), in 2026, advised by Prof. [De Cheng](https://scholar.google.com/citations?user=180lASkAAAAJ&hl=en) and Prof. [Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en), and received my bachelor's degree from Xidian University in 2023. My research interests are in computer vision and multi-modal learning, with specific interest in **continual learning**, **Person re-identification**, **parameter-efficient fine-tuning**, etc.
 
 [Email](mailto:lingfenghe077@gmail.com){:target="_self"}: lingfenghe077@gmail.com / [Github](https://github.com/HHHLF) / [Google scholar](https://scholar.google.com/citations?user=bUCPpbAAAAAJ&hl=zh-CN)
+
+<div class="social-row">
+  <a class="social-link" href="https://www.douyin.com/search/1263158490?type=user" target="_blank" rel="noopener">
+    <span class="social-icon douyin-icon" aria-hidden="true">
+      <svg viewBox="0 0 48 48" role="img" focusable="false">
+        <path fill="#00f2ea" d="M19.9 34.5c-2.3 0-4.1-1.8-4.1-4s1.8-4 4.1-4c.5 0 1 .1 1.5.3v-8.1a12 12 0 0 0-1.5-.1c-6.7 0-12.1 5.3-12.1 11.9s5.4 11.9 12.1 11.9c6.6 0 12-5.2 12.1-11.7V10.9c2.8 3.3 6 5.1 9.8 5.4V8.5c-3.8-.8-6.8-3-9.4-6.9h-8.2v28.8c0 2.3-1.9 4.1-4.3 4.1z"/>
+        <path fill="#ff0050" d="M23 36.3c-2.3 0-4.1-1.8-4.1-4s1.8-4 4.1-4c.5 0 1 .1 1.5.3v-8.1a12 12 0 0 0-1.5-.1c-6.7 0-12.1 5.3-12.1 11.9s5.4 11.9 12.1 11.9c6.6 0 12-5.2 12.1-11.7V12.7c2.8 3.3 6 5.1 9.8 5.4v-7.8c-3.8-.8-6.8-3-9.4-6.9h-8.2v28.8c0 2.3-1.9 4.1-4.3 4.1z"/>
+        <path fill="#111111" d="M21.4 35.4c-2.3 0-4.1-1.8-4.1-4s1.8-4 4.1-4c.5 0 1 .1 1.5.3v-8.1a12 12 0 0 0-1.5-.1c-6.7 0-12.1 5.3-12.1 11.9s5.4 11.9 12.1 11.9c6.6 0 12-5.2 12.1-11.7V11.8c2.8 3.3 6 5.1 9.8 5.4V9.4c-3.8-.8-6.8-3-9.4-6.9h-8.2v28.8c0 2.3-1.9 4.1-4.3 4.1z"/>
+      </svg>
+    </span>
+    Douyin: 1263158490
+  </a>
+  <a class="social-link" href="https://www.xiaohongshu.com/user/profile/636f0b7700000001f01b4ff" target="_blank" rel="noopener">
+    <span class="social-icon rednote-icon" aria-hidden="true">小红书</span>
+    Xiaohongshu
+  </a>
+</div>
  
 <span class="anchor" id="education"></span>
 
