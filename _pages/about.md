@@ -346,7 +346,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
 <p class="contact-lines">
   <a href="mailto:lingfenghe077@gmail.com" target="_self">Email</a>: lingfenghe077@gmail.com / <a href="https://github.com/HHHLF" target="_blank" rel="noopener">Github</a> / <a href="https://scholar.google.com/citations?user=bUCPpbAAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google scholar</a><br>
 <span class="social-row">
-  <a class="social-link" href="https://www.douyin.com/search/1263158490?type=user" target="_blank" rel="noopener">
+  <a class="social-link" href="https://www.douyin.com/user/MS4wLjABAAAA8-pVQC56cB9aEFmkPRsGaDye1WNpmYBxlmkI2zizQ10" target="_blank" rel="noopener">
     <span class="social-icon douyin-icon" aria-hidden="true">
       <svg viewBox="0 0 48 48" role="img" focusable="false">
         <path fill="#00f2ea" d="M19.9 34.5c-2.3 0-4.1-1.8-4.1-4s1.8-4 4.1-4c.5 0 1 .1 1.5.3v-8.1a12 12 0 0 0-1.5-.1c-6.7 0-12.1 5.3-12.1 11.9s5.4 11.9 12.1 11.9c6.6 0 12-5.2 12.1-11.7V10.9c2.8 3.3 6 5.1 9.8 5.4V8.5c-3.8-.8-6.8-3-9.4-6.9h-8.2v28.8c0 2.3-1.9 4.1-4.3 4.1z"/>
@@ -354,7 +354,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
         <path fill="#111111" d="M21.4 35.4c-2.3 0-4.1-1.8-4.1-4s1.8-4 4.1-4c.5 0 1 .1 1.5.3v-8.1a12 12 0 0 0-1.5-.1c-6.7 0-12.1 5.3-12.1 11.9s5.4 11.9 12.1 11.9c6.6 0 12-5.2 12.1-11.7V11.8c2.8 3.3 6 5.1 9.8 5.4V9.4c-3.8-.8-6.8-3-9.4-6.9h-8.2v28.8c0 2.3-1.9 4.1-4.3 4.1z"/>
       </svg>
     </span>
-    Douyin: 1263158490
+    Douyin: FranklinHLF
   </a>
   <a class="social-link" href="https://www.xiaohongshu.com/user/profile/636f0b7700000001f01b4ff" target="_blank" rel="noopener">
     <span class="social-icon rednote-icon" aria-hidden="true">小红书</span>
