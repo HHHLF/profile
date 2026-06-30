@@ -94,21 +94,16 @@ html[data-theme="dark"] .contribution {
 
 .venue-badge {
     position: absolute;
-    top: 10px;
+    top: 0;
     left: 0;
     z-index: 1;
-    display: inline-flex;
-    align-items: center;
-    min-height: 32px;
-    padding: 4px 16px;
-    background: #003fa3;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: .5em;
+    margin-left: -.5em;
+    background-color: #00369f;
     color: #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1;
-    letter-spacing: 0;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16);
+    font-size: .8em;
 }
 
 .publication-image {
@@ -233,10 +228,7 @@ html[data-theme="dark"] .award-title {
     }
 
     .venue-badge {
-        top: 8px;
-        font-size: 16px;
-        min-height: 28px;
-        padding: 4px 12px;
+        font-size: .8em;
     }
 
     .publication-actions {
@@ -473,7 +465,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">ACM MM 2023</span>
+    <span class="venue-badge">ACM MM 2023 (Oral)</span>
     <img class="publication-image" src="images/MBCCM.png" alt="MBCCM Framework">
   </div>
   
@@ -504,7 +496,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">TIP Review</span>
+    <span class="venue-badge">TIP (Under Review)</span>
     <img class="publication-image" src="images/ckaa.png" alt="CKAA Framework">
   </div>
   
