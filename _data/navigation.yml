@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "Education"
-    url: "/#education"
+    url: "#education"
 
   - title: "News"
-    url: "/#news"
+    url: "#news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "#publications"
 
   - title: "Preprints"
-    url: "/#preprints"
+    url: "#preprints"
 
   - title: "Co-author Papers"
-    url: "/#co-author-papers"
+    url: "#co-author-papers"
 
   - title: "Awards"
-    url: "/#awards"
+    url: "#awards"
 
   - title: "Other"
-    url: "/#other-information"
+    url: "#other-information"

@@ -278,7 +278,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
  
 <span class="anchor" id="education"></span>
 
-## Education
+## 🎓 Education
 
 <div class="education">
   <div class="edu-item">
@@ -305,7 +305,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <span class="anchor" id="news"></span>
 
-## News
+## 🔥 News
 
 <ul class="news-list">
   <li><span class="news-date">[2026.05]</span> One paper about Continual Learning is accepted by ICML 2026!</li>
@@ -319,7 +319,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <span class="anchor" id="publications"></span>
 
-## Publications (First author/Student first author)
+## 📝 Publications (First author/Student first author)
 
 (*equal contribution; only papers as first authors are included; click to view contribution)
 
@@ -451,7 +451,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <span class="anchor" id="preprints"></span>
 
-## Preprints (First author/Student first author)
+## 📌 Preprints (First author/Student first author)
 
 <div class="publication-item">
   <img class="publication-image" src="images/ckaa.png" alt="CKAA Framework">
@@ -479,7 +479,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 ---
 <span class="anchor" id="co-author-papers"></span>
 
-## Co-author Papers
+## 🤝 Co-author Papers
 
 <div class="coauthor-paper">
   <strong>EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning</strong><br>
@@ -509,7 +509,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <span class="anchor" id="awards"></span>
 
-## Awards
+## 🎖 Awards
 
 <div class="awards-list">
   <div class="award-item">
@@ -542,7 +542,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <span class="anchor" id="other-information"></span>
 
-## Other Information
+## 💬 Other Information
 
 I'm He Lingfeng. My hometown is Ningbo, Zhejiang Province, China. 
 
