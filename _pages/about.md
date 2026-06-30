@@ -103,8 +103,10 @@ html[data-theme="dark"] .contribution {
     margin-left: -.5em;
     background-color: #00369f;
     color: #ffffff;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+    font-size: 1.2em;
+    font-weight: 700;
+    line-height: 1.35;
 }
 
 .publication-image {
@@ -229,7 +231,7 @@ html[data-theme="dark"] .award-title {
     }
 
     .venue-badge {
-        font-size: 1em;
+        font-size: 1.05em;
     }
 
     .publication-actions {
@@ -359,7 +361,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">ICML 2026</span>
+    <span class="badge venue-badge">ICML 2026</span>
     <img class="publication-image" src="images/loda.png" alt="Overall Framework">
   </div>
   
@@ -385,7 +387,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">AAAI 2026</span>
+    <span class="badge venue-badge">AAAI 2026</span>
     <img class="publication-image" src="images/seca1.png" alt="Overall Framework">
   </div>
   
@@ -412,7 +414,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">IJCV 2024</span>
+    <span class="badge venue-badge">IJCV 2024</span>
     <img class="publication-image" src="images/mult.png" alt="MULT Framework">
   </div>
   
@@ -439,7 +441,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">IJCV 2025</span>
+    <span class="badge venue-badge">IJCV 2025</span>
     <img class="publication-image" src="images/saclr.png" alt="SACLR Framework">
   </div>
   
@@ -466,7 +468,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">ACM MM 2023 (Oral)</span>
+    <span class="badge venue-badge">ACM MM 2023 (Oral)</span>
     <img class="publication-image" src="images/MBCCM.png" alt="MBCCM Framework">
   </div>
   
@@ -497,7 +499,7 @@ I am a third-year master's student at Xidian University, the State Key Laborator
 
 <div class="publication-item">
   <div class="publication-visual">
-    <span class="venue-badge">TIP (Under Review)</span>
+    <span class="badge venue-badge">TIP (Under Review)</span>
     <img class="publication-image" src="images/ckaa.png" alt="CKAA Framework">
   </div>
   
