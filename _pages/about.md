@@ -343,9 +343,9 @@ document.addEventListener("click", function(event) {
 
 I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUST), starting in Fall 2026, supervised by Prof. [Xiaomeng Li](https://scholar.google.com/citations?user=uVTzPpoAAAAJ&hl=en). Prior to this, I received my master's degree from Xidian University, the State Key Laboratory of Integrated Services Networks (ISN), in 2026, advised by Prof. [De Cheng](https://scholar.google.com/citations?user=180lASkAAAAJ&hl=en) and Prof. [Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en), and received my bachelor's degree from Xidian University in 2023. My research interests are in computer vision and multi-modal learning, with specific interest in **continual learning**, **Person re-identification**, **parameter-efficient fine-tuning**, etc.
 
-[Email](mailto:lingfenghe077@gmail.com){:target="_self"}: lingfenghe077@gmail.com / [Github](https://github.com/HHHLF) / [Google scholar](https://scholar.google.com/citations?user=bUCPpbAAAAAJ&hl=zh-CN)
-
-<div class="social-row">
+<p class="contact-lines">
+  <a href="mailto:lingfenghe077@gmail.com" target="_self">Email</a>: lingfenghe077@gmail.com / <a href="https://github.com/HHHLF" target="_blank" rel="noopener">Github</a> / <a href="https://scholar.google.com/citations?user=bUCPpbAAAAAJ&hl=zh-CN" target="_blank" rel="noopener">Google scholar</a><br>
+<span class="social-row">
   <a class="social-link" href="https://www.douyin.com/search/1263158490?type=user" target="_blank" rel="noopener">
     <span class="social-icon douyin-icon" aria-hidden="true">
       <svg viewBox="0 0 48 48" role="img" focusable="false">
@@ -360,7 +360,8 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     <span class="social-icon rednote-icon" aria-hidden="true">小红书</span>
     Xiaohongshu
   </a>
-</div>
+</span>
+</p>
  
 <span class="anchor" id="education"></span>
 
