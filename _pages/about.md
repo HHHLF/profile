@@ -299,7 +299,7 @@ document.addEventListener("click", function(event) {
 
 <span class="anchor" id="about-me"></span>
 
-I am a third-year master's student at Xidian University, the State Key Laboratory of Integrated Services Networks (ISN), advised by Prof. De Cheng and Prof. Nannan Wang. Prior to this, I received my bachelor degree in Xidian University in 2023. My research interests are in computer vision and multi-modal learning, with specific interest in **person re-identification**, **continual learning**, parameter-efficient fine-tuning, unsupervised learning, etc.
+I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUST), starting in Fall 2026, supervised by Prof. [Xiaomeng Li](https://scholar.google.com/citations?user=uVTzPpoAAAAJ&hl=en). Prior to this, I received my master's degree from Xidian University, the State Key Laboratory of Integrated Services Networks (ISN), advised by Prof. [De Cheng](https://scholar.google.com/citations?user=180lASkAAAAJ&hl=en) and Prof. [Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en), and received my bachelor's degree from Xidian University in 2023. My research interests are in computer vision and multi-modal learning, with specific interest in **person re-identification**, **continual learning**, parameter-efficient fine-tuning, unsupervised learning, etc.
 
 [Email](mailto:lingfenghe077@gmail.com): lingfenghe077@gmail.com / [Github](https://github.com/HHHLF) / [Google scholar](https://scholar.google.com/citations?user=bUCPpbAAAAAJ&hl=zh-CN)
  
