@@ -103,7 +103,8 @@ html[data-theme="dark"] .contribution {
     margin-left: -.5em;
     background-color: #00369f;
     color: #ffffff;
-    font-size: .8em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 1em;
 }
 
 .publication-image {
@@ -228,7 +229,7 @@ html[data-theme="dark"] .award-title {
     }
 
     .venue-badge {
-        font-size: .8em;
+        font-size: 1em;
     }
 
     .publication-actions {
