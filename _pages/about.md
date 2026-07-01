@@ -423,7 +423,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     <strong>Lingfeng He</strong>, De Cheng, Huaijie Wang, Xi Yang, Nannan Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
-      <a href="https://arxiv.org/abs/2603.00191">[Arxiv]</a> 
+      <a href="https://arxiv.org/abs/2603.00191">[Paper]</a> 
       <a href="https://github.com/HHHLF/LoDA_ICML2026">[Code]</a>
       <details class="contribution-details">
         <summary><strong>Contribution</strong></summary>
@@ -449,7 +449,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     <strong>Lingfeng He</strong>, De Cheng, Di Xu, Huaijie Wang, Nannan Wang<br><br>
 
     <div class="publication-actions">
-      <a href="https://www.arxiv.org/abs/2508.01579">[Arxiv]</a> 
+      <a href="https://www.arxiv.org/abs/2508.01579">[Paper]</a> 
       <a href="https://github.com/HHHLF/SECA_AAAI2026">[Code]</a>
       <details class="contribution-details">
         <summary><strong>Contribution</strong></summary>
@@ -476,7 +476,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     <strong>Lingfeng He</strong>, De Cheng, Nannan Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
-      <a href="https://arxiv.org/pdf/2402.00672">[Arxiv]</a> 
+      <a href="https://arxiv.org/pdf/2402.00672">[Paper]</a> 
       <a href="https://github.com/HHHLF/MULT_IJCV2024">[Code]</a>
       <details class="contribution-details">
         <summary><strong>Contribution</strong></summary>
@@ -503,7 +503,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     De Cheng*, <strong>Lingfeng He*</strong>, Nannan Wang, Dingwen Zhang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
-      <a href="https://arxiv.org/pdf/2504.19244">[Arxiv]</a> 
+      <a href="https://arxiv.org/pdf/2504.19244">[Paper]</a> 
       <a href="https://github.com/HHHLF/SACLR_IJCV2025">[Code]</a>
       <details class="contribution-details">
         <summary><strong>Contribution</strong></summary>
@@ -530,7 +530,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     De Cheng*, <strong>Lingfeng He*</strong>, Nannan Wang, Shizhou Zhang, Zhen Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
-      <a href="https://arxiv.org/pdf/2305.12673">[Arxiv]</a>
+      <a href="https://arxiv.org/pdf/2305.12673">[Paper]</a>
       <details class="contribution-details">
         <summary><strong>Contribution</strong></summary>
         <div class="contribution">
@@ -561,7 +561,7 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
     <strong>Lingfeng He</strong>, De Cheng, Zhiheng Ma, Huaijie Wang, Dingwen Zhang, Nannan Wang, Xinbo Gao<br><br>
 
     <div class="publication-actions">
-      <a href="https://www.arxiv.org/pdf/2507.09471">[Arxiv]</a>
+      <a href="https://www.arxiv.org/pdf/2507.09471">[Paper]</a>
       <details class="contribution-details">
         <summary><strong>Contribution</strong></summary>
         <div class="contribution">
@@ -581,27 +581,23 @@ I am a Ph.D. student at The Hong Kong University of Science and Technology (HKUS
 ## 🤝 Co-author Papers
 
 <div class="coauthor-paper">
-  <strong>EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning</strong><br>
+  <strong>EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning (IJCV 2026)</strong><br><a href="https://arxiv.org/abs/2506.12351">[Paper]</a>
   Huaijie Wang, De Cheng, <strong>Lingfeng He</strong>, Yan Li, Jie Li, Nannan Wang, Xinbo Gao<br>
-  <em>International Journal of Computer Vision (IJCV), 2026</em>
 </div>
 
 <div class="coauthor-paper">
-  <strong>StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning</strong><br>
+  <strong>StPR: Spatiotemporal Preservation and Routing for Exemplar-Free Video Class-Incremental Learning (ICLR 2026)</strong><br><a href="https://arxiv.org/abs/2505.13997">[Paper]</a>
   Huaijie Wang, De Cheng, Guozhang Li, Zhipeng Xu, <strong>Lingfeng He</strong>, Jie Li, Nannan Wang, Xinbo Gao<br>
-  <em>International Conference on Learning Representations (ICLR), 2026</em>
 </div>
 
 <div class="coauthor-paper">
-  <strong>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning</strong><br>
+  <strong>Progressive Feature-Attribute Matching via Bi-directional Generation for Transductive Zero-Shot Learning (TCSVT 2025)</strong><br><a href="https://ieeexplore.ieee.org/document/11006738">[Paper]</a>
   De Cheng, Lei Wei, Chaowei Fang, <strong>Lingfeng He</strong>, Nannan Wang, Xinbo Gao<br>
-  <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025</em>
 </div>
 
 <div class="coauthor-paper">
-  <strong>Unsupervised Visible-Infrared Person ReID by Collaborative Learning with Neighbor-Guided Label Refinement</strong><br>
+  <strong>Unsupervised Visible-Infrared Person ReID by Collaborative Learning with Neighbor-Guided Label Refinement (ACM MM 2023)</strong><br><a href="https://arxiv.org/abs/2305.12711">[Paper]</a>
   De Cheng, Xiaojian Huang, Nannan Wang, <strong>Lingfeng He</strong>, Zhihui Li, Xinbo Gao<br>
-  <em>Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023</em>
 </div>
 
 ---
